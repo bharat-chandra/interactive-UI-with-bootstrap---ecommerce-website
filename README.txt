@@ -1,8 +1,6 @@
 
 DESCRIPTION: This is the e-commerce website 
 
-Extract the files from project_solution.zip.
-
 _____________________________________________Folder Structure__________________________________________________
 	
 	
